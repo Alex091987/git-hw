@@ -2,7 +2,7 @@
 
 ### Задание 1
 
-https://github.com/Alex091987/8-01#commit-1
+https://github.com/Alex091987/8-01/commit/6c9335a59bae61a17e63a1c4949dd4f659544f4a
 
 ### Задание 2
 
